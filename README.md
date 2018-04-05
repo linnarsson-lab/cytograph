@@ -37,5 +37,4 @@ Make sure `bhtsne` is in your $PATH
 **Note:** pipelines are now separated out into their own repos:
 
 * [Adolescent mouse brain](https://github.com/linnarsson-lab/adolescent-mouse)
-* [Developing mouse brain](https://github.com/linnarsson-lab/development-mouse)
 
